@@ -3,6 +3,7 @@ class Post
  
   def initialize
     @author = author
-    @
+    @name = name 
+    @title = title 
   end 
 end 
